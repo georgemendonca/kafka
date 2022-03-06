@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kafka & Confluent Insights
 
 You can use the [editor on GitHub](https://github.com/georgemendonca/kafka/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
